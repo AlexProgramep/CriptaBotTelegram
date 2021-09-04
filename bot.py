@@ -11,7 +11,7 @@ from pycoingecko import CoinGeckoAPI
 from py_currency_converter import convert
 
 #Токен
-API_TOKEN = '1803658784:AAF5NlyouPcAe4Wbeu0XQVT8cum_NKDEipw'
+API_TOKEN = 'Токен'
 
 #Логируем бота
 logging.basicConfig(level=logging.INFO)
